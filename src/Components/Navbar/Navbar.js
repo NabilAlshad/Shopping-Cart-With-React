@@ -3,10 +3,10 @@ import './Navbar.css';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 export default function Navbar() {
     return (
-        <div>
+        <div className='nav'>
             <ul className='navbar'>
-                <li>Pro-Shop</li>
-                <li>cart</li>
+                <li className='title'>Pro-Shop</li>
+                <li className='cart'>cart</li>
             </ul>
         </div>
     )
