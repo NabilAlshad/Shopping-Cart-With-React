@@ -1,0 +1,49 @@
+.emptyMsg {
+    color: red;
+}
+
+.cartItems {
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.itemPrice {
+    color: black
+}
+
+.priceSection {
+    display: flex;
+    justify-content: center;
+}
+
+button.counterButton {
+    width: 14%;
+    height: 2em;
+    background: #2b7a61;
+    margin: 3%;
+    color: white;
+}
+
+h4.prductMsg {
+    text-align: center;
+    /* background: cadetblue; */
+    width: 74%;
+
+    padding: 7%;
+}
+
+.cartComponent {
+    background: bisque;
+    margin: 3%;
+}
+
+h4.prductMsg {
+    text-align: center;
+    width: 81%;
+    /* background: cadetblue; */
+    color: black;
+    /* padding: 7%; */
+    font-family: sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}

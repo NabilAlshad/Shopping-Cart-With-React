@@ -1,14 +1,6 @@
 .main-container {
   margin: 2% auto;
-  /* border: 1px solid black; */
-
   display: grid;
   grid-template-columns: 7fr 3fr;
   grid-column-gap: 1em;
-
-
-}
-
-.app {
-  overflow: hidden;
 }

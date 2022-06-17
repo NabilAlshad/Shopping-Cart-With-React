@@ -1,0 +1,25 @@
+button.Purchase {
+    width: 90%;
+    color: black;
+    font-size: 25px;
+    border: none;
+    background: #52e393;
+    margin: 1% 5%;
+    cursor: pointer;
+    height: 3em;
+}
+
+h1.subTotal {
+    text-align: center;
+    font-family: cursive;
+}
+
+button.clear-cart {
+    width: 50%;
+    margin: 1% 22%;
+    background: rgb(202, 99, 99);
+    color: white;
+    cursor: pointer;
+    border: none;
+    height: 2em;
+}
