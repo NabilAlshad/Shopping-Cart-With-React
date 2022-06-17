@@ -41,7 +41,7 @@ To deploy this project
 ```bash
   npm run build
 ```
-Then deploy into netlify or any other hosting sites
+
 
 ## Demo
 
